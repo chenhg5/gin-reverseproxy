@@ -1,4 +1,4 @@
-# Gin Reverse Proxy
+# Gin Reverse Proxy Middleware
 
 proxy different domain request to different host through specified proxy rules <br>
 no need nginx just go
